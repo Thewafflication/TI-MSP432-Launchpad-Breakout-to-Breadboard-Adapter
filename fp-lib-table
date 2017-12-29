@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MSP432-bb-breakout)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
